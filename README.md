@@ -3,7 +3,7 @@ This is a template for python projects.
 
 ## Prerequisites
 1. An environment with Ubuntu OS
-2. At least one of python3.10, python3.11, and python3.12 is Installed
+2. At least one of python3.x is Installed
 3. Corresponding python3.x-venv is installed
 
 ## QuickStart
