@@ -18,7 +18,7 @@ This is a template for python projects.
     ```
 3. set up python project
     ```
-    ./dev/bootstrap.sh
+    bash dev/bootstrap.sh
     ```
 3. run your app
     ```
