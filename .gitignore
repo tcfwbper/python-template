@@ -3,7 +3,9 @@
 
 # Python virtual environment
 .venv/
-poetry.lock
+uv.lock
+*.egg-info/
+*.egg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
